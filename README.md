@@ -1,6 +1,6 @@
 # Free GPU and AWS resources for Tensorlayer Community
 
-[SurgicalAI ](www.surgicalai.cn) is sponsoring TensorLayer by prodviding Free GPU and Cloud Storage Resources for the TensorLayer Community.
+[SurgicalAI ](www.surgicalai.cn) is sponsoring TensorLayer by providing Free GPU and Cloud Storage Resources for the TensorLayer Community.
 SurgicalAI provides unlimited S3 data storage resources with unlimited space and bandwidth, which can be used for storing training data, pretrained model. SurgicalAI is also providing TensorLayer community with free GPU for training AI models, but the capacity is very limited.
 
 To use the free cloud computing resource, a project must 
